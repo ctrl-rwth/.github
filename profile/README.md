@@ -9,4 +9,4 @@ Student-led association at RWTH Aachen. We build, test and explore robots for co
 - **Applied workshops:** deep-dives into modern tooling
 - **Hardware projects:** building physical prototypes
 
-[Website](https://www.ctrl-rwth.de) · [LinkedIn](https://www.linkedin.com/company/ctrl-rwth/) · [Instagram](https://www.instagram.com/ctrl_rwth/)
+[Website](https://www.ctrl-rwth.de) · [Hugging Face](https://huggingface.co/ctrl-rwth) · [LinkedIn](https://www.linkedin.com/company/ctrl-rwth/) · [Instagram](https://www.instagram.com/ctrl_rwth/)
