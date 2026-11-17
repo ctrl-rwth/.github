@@ -9,6 +9,4 @@ Student-led association at RWTH Aachen. We build, test and explore robots for co
 - **Applied workshops:** deep-dives into modern tooling
 - **Hardware projects:** building physical prototypes
 
-**Construction Robotics Hackathon 2026:** 27–29 Nov, CTRL Lab Aachen. Challenge repositories live here.
-
 [Website](https://www.ctrl-rwth.de) · [LinkedIn](https://www.linkedin.com/company/ctrl-rwth/) · [Instagram](https://www.instagram.com/ctrl_rwth/)
